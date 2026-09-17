@@ -1,0 +1,32 @@
+2026-09-17 21:55:00,179 - INFO - ========== PIPELINE STARTED ==========
+2026-09-17 21:55:00,182 - INFO - Random raw data generated: 30 records
+2026-09-17 21:55:00,184 - WARNING - Missing age for student 1002. Using default age.
+2026-09-17 21:55:00,185 - WARNING - Invalid marks for student 1005. Using 0.
+2026-09-17 21:55:00,185 - WARNING - Invalid marks for student 1007. Using 0.
+2026-09-17 21:55:00,185 - WARNING - Invalid marks for student 1010. Using 0.
+2026-09-17 21:55:00,185 - WARNING - Missing attendance for student 1010. Using default.
+2026-09-17 21:55:00,185 - WARNING - Missing age for student 1011. Using default age.
+2026-09-17 21:55:00,185 - WARNING - Missing attendance for student 1014. Using default.
+2026-09-17 21:55:00,186 - WARNING - Missing age for student 1016. Using default age.
+2026-09-17 21:55:00,186 - WARNING - Missing attendance for student 1018. Using default.
+2026-09-17 21:55:00,186 - WARNING - Missing age for student 1020. Using default age.
+2026-09-17 21:55:00,186 - WARNING - Invalid marks for student 1020. Using 0.
+2026-09-17 21:55:00,186 - WARNING - Missing age for student 1022. Using default age.
+2026-09-17 21:55:00,186 - INFO - Data cleaning completed. Records processed: 30
+2026-09-17 21:55:00,187 - INFO - Data transformation completed. Records transformed: 30
+2026-09-17 21:55:00,192 - INFO - Processed data saved to data/processed_students.csv
+2026-09-17 21:55:00,193 - INFO - ========== PIPELINE COMPLETED ==========
+2026-09-17 21:57:57,407 - INFO - ========== PIPELINE STARTED ==========
+2026-09-17 21:57:57,413 - INFO - Random raw data generated: 30 records
+2026-09-17 21:57:57,414 - WARNING - Invalid marks for student 1002. Using 0.
+2026-09-17 21:57:57,415 - WARNING - Missing age for student 1005. Using default age.
+2026-09-17 21:57:57,415 - WARNING - Invalid marks for student 1006. Using 0.
+2026-09-17 21:57:57,416 - WARNING - Missing age for student 1013. Using default age.
+2026-09-17 21:57:57,416 - WARNING - Missing attendance for student 1013. Using default.
+2026-09-17 21:57:57,416 - WARNING - Invalid marks for student 1015. Using 0.
+2026-09-17 21:57:57,418 - WARNING - Missing age for student 1024. Using default age.
+2026-09-17 21:57:57,418 - WARNING - Missing attendance for student 1026. Using default.
+2026-09-17 21:57:57,418 - INFO - Data cleaning completed. Records processed: 30
+2026-09-17 21:57:57,419 - INFO - Data transformation completed. Records transformed: 30
+2026-09-17 21:57:57,423 - INFO - Processed data saved to data/processed_students.csv
+2026-09-17 21:57:57,423 - INFO - ========== PIPELINE COMPLETED ==========

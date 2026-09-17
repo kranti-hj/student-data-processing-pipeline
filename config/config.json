@@ -1,0 +1,10 @@
+{
+    "input_file": "data/raw_students.csv",
+    "output_file": "data/processed_students.csv",
+    "log_file": "logs/pipeline.log",
+    "number_of_records": 30,
+    "default_age": 20,
+    "default_attendance": 75,
+    "minimum_marks": 0,
+    "maximum_marks": 100
+}
